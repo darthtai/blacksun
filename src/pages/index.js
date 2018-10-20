@@ -6,7 +6,7 @@ import Link from 'gatsby-link';
 const IndexPage = () => (
   <div>
     <h1>Welcome to the Black Sun</h1>
-    <Link to="/page-der/">Go to page 2</Link>
+    <p>The site is still under construction while I learn more about Gatsby and React :)</p>
   </div>
 );
 
