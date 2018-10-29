@@ -1,6 +1,8 @@
 html {
   background: url('../../resources/images/ffxiv_10182018_210551-fs8.png');
   background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   color: #fdee06
