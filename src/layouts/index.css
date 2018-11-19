@@ -1,8 +1,19 @@
-html {
-  background: url('../../resources/images/ffxiv_10182018_210551-fs8.png');
-  background-color: black;
-  background-repeat: no-repeat;
-  background-size: cover;
+.headerText {
+  text-align: center;
+}
+.mainContainer {
+  margin: 0 auto;
+  max-width: max-content;
+  padding: 20px;
+}
+.mainContent {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+  z-index: 1;
+}
+.footer {
+  text-align: center;
 }
 h1 {
   color: #fdee06
