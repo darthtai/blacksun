@@ -427,6 +427,7 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "314a060a371ae200e7737f4ac47f5704",
+        "contentDigest": "b007df57f8a87e623e9ade5778a0f9b6",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }

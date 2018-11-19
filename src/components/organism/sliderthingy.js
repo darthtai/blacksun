@@ -20,6 +20,4 @@ const swiper = new Swiper(
   }
 );
 
-console.log(swiper);
-
 export default Slider;
