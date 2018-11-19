@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "D:/Dev Me/blacksun/.cache/dev-404-page.js",
+      "component": "/home/taiyang/Development/blacksun-site/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "D:/Dev Me/blacksun/.cache/dev-404-page.js",
+      "componentPath": "/home/taiyang/Development/blacksun-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c3bc3fd458cd0040bfbf8aab2f4a5f4",
+        "contentDigest": "9cdc59fa3c68239d5c60467398acdb4c",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ec13284e39ebfe8ab59946eb02c387ec",
+        "contentDigest": "5f98492ef90b6f2004c1a0db8db31d88",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "361f4127576582ac1efe26bd786f7523",
+        "contentDigest": "f2648b298a8e42e2be3d57a4b20736c8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -108,7 +108,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -129,13 +129,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "471fe437f439c50511cdcc91506dcc52",
+        "contentDigest": "76a46da90c7fcde8baa3b2c46726b51d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -148,7 +148,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -165,13 +165,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a26b82cea55ab9a5fd2eb6ca3cfd31a0",
+        "contentDigest": "6c4182eaa2e3e885f268d6b37f0504da",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -183,7 +183,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -200,13 +200,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3ddc2ae336d8d5240177ed2aee5fcc37",
+        "contentDigest": "247d95e99658d60b6cdbd3845c857c1d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -219,7 +219,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -236,13 +236,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8827880ea5a919222357e38e4039f83c",
+        "contentDigest": "84be7b65126408be4f4137139e3bd692",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "D:/Dev Me/blacksun/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/home/taiyang/Development/blacksun-site/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.10",
@@ -254,7 +254,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "D:/Dev Me/blacksun/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -313,13 +313,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "61113398e9c03a1afe21f35a782e3a49",
+        "contentDigest": "60a8b37128f1b8c9c7c5e5725244cf87",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "D:/Dev Me/blacksun",
+      "resolve": "/home/taiyang/Development/blacksun-site",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "7336e909a7a82d12773eb968ccf2bb3a",
@@ -329,7 +329,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/Dev Me/blacksun",
+      "pluginFilepath": "/home/taiyang/Development/blacksun-site",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -340,6 +340,10 @@
         "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "arwes",
+            "version": "^1.0.0-alpha.5"
+          },
           {
             "name": "canvas",
             "version": "^2.0.1"
@@ -382,7 +386,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "20215473c4beec36b5a57fc2179b264e",
+        "contentDigest": "c3d15035a9ce518ce6f1ce38da555b4a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -396,12 +400,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-21T03:56:47.716Z",
+      "buildTime": "2018-11-19T12:24:47.324Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0722debe85f65185dfc7a42dcd215129",
+        "contentDigest": "044a35d506ee69974803c722ed923b46",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -411,18 +415,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "D:/Dev Me/blacksun/src/pages/404.js",
+      "component": "/home/taiyang/Development/blacksun-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/Dev Me/blacksun/src/pages/404.js",
+      "componentPath": "/home/taiyang/Development/blacksun-site/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b7db7a3e5a4a397af5346ec1445ebd97",
+        "contentDigest": "314a060a371ae200e7737f4ac47f5704",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -432,18 +436,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "D:/Dev Me/blacksun/src/pages/index.js",
+      "component": "/home/taiyang/Development/blacksun-site/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/Dev Me/blacksun/src/pages/index.js",
+      "componentPath": "/home/taiyang/Development/blacksun-site/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "01f65b346e25724ee105533929e5a4e8",
+        "contentDigest": "64c9a92b0864f1147025bc16cb984651",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -453,18 +457,18 @@
       "jsonName": "page-der.json",
       "internalComponentName": "ComponentPageDer",
       "path": "/page-der/",
-      "component": "D:/Dev Me/blacksun/src/pages/page-der.js",
+      "component": "/home/taiyang/Development/blacksun-site/src/pages/page-der.js",
       "componentChunkName": "component---src-pages-page-der-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/Dev Me/blacksun/src/pages/page-der.js",
+      "componentPath": "/home/taiyang/Development/blacksun-site/src/pages/page-der.js",
       "id": "SitePage /page-der/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9bcce0e0e79bbd8ec99553b8961e7e91",
+        "contentDigest": "e83d1bd10631075a6c62340cbfe401e9",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -474,18 +478,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "D:/Dev Me/blacksun/src/pages/404.js",
+      "component": "/home/taiyang/Development/blacksun-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "D:/Dev Me/blacksun/src/pages/404.js",
+      "componentPath": "/home/taiyang/Development/blacksun-site/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "174301af9356ba562011ad834da083b3",
+        "contentDigest": "813bc928fc1b7d644a2dce6ecd74f277",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -493,7 +497,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "25f3da7bb510934a7bd782711312e245"
+    "PLUGINS_HASH": "a1674c54b137c68ba9fee7b45cca9d3d"
   },
   "componentDataDependencies": {
     "nodes": {

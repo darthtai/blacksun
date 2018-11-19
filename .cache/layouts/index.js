@@ -1,7 +1,7 @@
 
   import React from "react"
-  import Component from "D:/Dev Me/blacksun/src/layouts/index.js"
-  import data from "D:\\Dev Me\\blacksun\\.cache\\json\\layout-index.json"
+  import Component from "/home/taiyang/Development/blacksun-site/src/layouts/index.js"
+  import data from "/home/taiyang/Development/blacksun-site/.cache/json/layout-index.json"
 
   export default (props) => <Component {...props} {...data} />
   
