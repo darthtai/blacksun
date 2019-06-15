@@ -32,7 +32,7 @@ const IndexPage = () => (
           headerSize='h3'
         >
           <Content className='mainContent'>
-            <Words animate>The site is being worked on while I learn more about Gatsby and React</Words>
+            <Words animate>The site is being worked on while I learn more about React</Words>
           </Content>
         </Project>
       </div>
