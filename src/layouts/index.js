@@ -1,11 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import { ThemeProvider, createTheme, Arwes } from 'arwes';
 
 import favicon from '../../public/static/icons8-pyramids-50.png';
-import pattern from '../../resources/images/glow.png';
-//import Header from '../components/cell/header';
 import 'normalize.css';
 import './index.css';
 
@@ -16,7 +13,6 @@ const Layout = ({ children, data }) => (
       meta={[
         { name: 'description', content: 'Under Construction' },
         { name: 'image', content: favicon }
-        //{ name: 'keywords', content: 'sample, something' },
       ]}
       link={[
         { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }

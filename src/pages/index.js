@@ -15,15 +15,6 @@ import pattern from '../../resources/images/glow.png';
 
 const theme = createTheme();
 
-const mySounds = {
-  shared: { volume: 1, },  // Shared sound settings
-  players: {  // The player settings
-    deploy: {  // With the name the player is created
-      sound: { src: [test] }  // The settings to pass to Howler
-    }
-  }
-};
-
 const IndexPage = () => (
   <ThemeProvider theme={theme}>
     <Arwes animate show pattern={pattern}>
